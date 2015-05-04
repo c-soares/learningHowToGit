@@ -137,7 +137,7 @@
     <resources>
         <image name="Davi" width="584" height="584"/>
         <image name="first" width="30" height="30"/>
-        <image name="photo" width="300" height="301"/>
+        <image name="man" width="30" height="30"/>
         <image name="second" width="30" height="30"/>
     </resources>
 </document>
