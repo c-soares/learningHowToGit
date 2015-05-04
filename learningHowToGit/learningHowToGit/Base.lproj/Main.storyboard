@@ -29,7 +29,7 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Andrew" image="Apple" id="acW-dT-cKf"/>
+                    <tabBarItem key="tabBarItem" title="Andrew" image="animal-footprint" id="acW-dT-cKf"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="W5J-7L-Pyd" sceneMemberID="firstResponder"/>
             </objects>
@@ -134,7 +134,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="Apple" width="30" height="30"/>
         <image name="Davi" width="584" height="584"/>
         <image name="IMG_0046" width="960" height="1280"/>
         <image name="button-1" width="20" height="20"/>

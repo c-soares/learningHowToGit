@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8B91ADB01AF7C1CA00F1BD01 /* testeClasse.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B91ADAF1AF7C1CA00F1BD01 /* testeClasse.m */; };
 		C816F7B81AF7B28900341944 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C816F7B71AF7B28900341944 /* main.m */; };
 		C816F7BB1AF7B28900341944 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C816F7BA1AF7B28900341944 /* AppDelegate.m */; };
 		C816F7BE1AF7B28900341944 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C816F7BD1AF7B28900341944 /* FirstViewController.m */; };
@@ -28,6 +29,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8B91ADAE1AF7C1CA00F1BD01 /* testeClasse.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = testeClasse.h; sourceTree = "<group>"; };
+		8B91ADAF1AF7C1CA00F1BD01 /* testeClasse.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = testeClasse.m; sourceTree = "<group>"; };
 		C816F7B21AF7B28900341944 /* learningHowToGit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = learningHowToGit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C816F7B61AF7B28900341944 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C816F7B71AF7B28900341944 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -91,6 +94,8 @@
 				C816F7BF1AF7B28900341944 /* SecondViewController.h */,
 				C816F7C01AF7B28900341944 /* SecondViewController.m */,
 				C816F7C21AF7B28900341944 /* Main.storyboard */,
+				8B91ADAE1AF7C1CA00F1BD01 /* testeClasse.h */,
+				8B91ADAF1AF7C1CA00F1BD01 /* testeClasse.m */,
 				C816F7C51AF7B28900341944 /* Images.xcassets */,
 				C816F7C71AF7B28900341944 /* LaunchScreen.xib */,
 				C816F7B51AF7B28900341944 /* Supporting Files */,
@@ -227,6 +232,7 @@
 				C816F7C11AF7B28900341944 /* SecondViewController.m in Sources */,
 				C816F7BB1AF7B28900341944 /* AppDelegate.m in Sources */,
 				C816F7BE1AF7B28900341944 /* FirstViewController.m in Sources */,
+				8B91ADB01AF7C1CA00F1BD01 /* testeClasse.m in Sources */,
 				C816F7B81AF7B28900341944 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -422,6 +428,7 @@
 				C816F7DA1AF7B28900341944 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C816F7DB1AF7B28900341944 /* Build configuration list for PBXNativeTarget "learningHowToGitTests" */ = {
 			isa = XCConfigurationList;
@@ -430,6 +437,7 @@
 				C816F7DD1AF7B28900341944 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
